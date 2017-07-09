@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="add_new">add new</string>
+</resources>
